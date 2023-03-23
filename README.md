@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Nashwan Abdullah</h3>
+<h3>Hi 👋, Hello Rama404</h3>
 <h4>A frontend developer from Iraq in Sulaymaniyah</h3>
 
 **RaMa-404/RaMa-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning full stack...  
 
--  👤 My is Age 18 Years
+-  👤 My is Age 20 Years
 
 - 💬 Ask me about codeing - frontend
 
