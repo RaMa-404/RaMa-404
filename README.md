@@ -1,7 +1,7 @@
 <h3>Hi 👋, Hello Rama404</h3>
 <h4>A frontend developer from Iraq in Sulaymaniyah</h3>
 
-**RaMa-404/RaMa-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Views](https://komarev.com/ghpvc/?username=RaMa-404&color=green)
 
 Here are some ideas to get you started:
 
