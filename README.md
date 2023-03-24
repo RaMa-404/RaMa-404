@@ -2,6 +2,7 @@
 <h4>A frontend developer from Iraq in Sulaymaniyah</h3>
 
 ![Views](https://komarev.com/ghpvc/?username=RaMa-404&color=green)
+-  **In 2011 Istudied computer coures**
 <a href="https://github.com/RaMa-404" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/freelancy-3d/512/2._Macbook.png" alt="arduino" width="200" height="200"/> </a>
 
 Here are some ideas to get you started:
