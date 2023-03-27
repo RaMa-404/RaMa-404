@@ -1,4 +1,4 @@
-<h3>Hi 👋, Hello Rama404</h3>
+<h3>Hi 👋, Im Rama404</h3>
 <h4>A frontend developer from Iraq in Sulaymaniyah</h3>
 
 ![Views](https://komarev.com/ghpvc/?username=RaMa-404&color=green)
